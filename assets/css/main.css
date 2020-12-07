@@ -252,7 +252,7 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 1080px) {
-
+		
 			.container {
 				width: 100%;
 			}
@@ -772,7 +772,9 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 1080px) {
-
+				#testomonial {
+					margin-right: 1em
+			}
 			.row {
 				display: flex;
 				flex-wrap: wrap;
